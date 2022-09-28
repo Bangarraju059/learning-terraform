@@ -1,0 +1,3 @@
+modulke "test" {
+  source = "./test"
+}
